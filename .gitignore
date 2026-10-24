@@ -1,0 +1,16 @@
+node_modules/
+.env
+.env.*
+!.env.example
+logs/
+data/
+*.log
+.bot.pid
+
+# Local credentials and private keys
+secrets/
+credentials.json
+*.pem
+*.key
+*.p12
+*.pfx
